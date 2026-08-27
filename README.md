@@ -96,3 +96,15 @@ For each problem, I try to focus on:
 # LeetCode Topics
 
 Solutions to LeetCode problems organized according to their respective topics.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
