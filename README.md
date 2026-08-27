@@ -107,4 +107,16 @@ Solutions to LeetCode problems organized according to their respective topics.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0258-add-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
