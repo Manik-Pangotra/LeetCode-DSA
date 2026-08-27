@@ -1,39 +1,48 @@
 # Data Structures & Algorithms in C++
-A structured collection of my Data Structures and Algorithms learning journey using C++.
 
-This repository contains implementations of fundamental data structures, algorithms, problem-solving patterns, and solutions to coding problems from platforms such as LeetCode.
+A structured collection of my **Data Structures and Algorithms** learning journey using **C++**, focused on building strong problem-solving skills through consistent practice.
 
-🎯 Goals
-Build strong DSA fundamentals
-Improve problem-solving and logical thinking
-Learn common algorithmic patterns
-Practice writing clean and efficient C++ code
-Prepare for technical interviews and coding assessments
-📚 Topics
-Arrays
-Strings
-Searching
-Sorting
-Linked Lists
-Stacks
-Queues
-Recursion & Backtracking
-Hashing
-Trees
-Binary Search Trees
-Heaps & Priority Queues
-Graphs
-Greedy Algorithms
-Dynamic Programming
-C++ STL
-Problem-Solving Patterns
-🛠️ Language
-C++
+This repository contains my implementations, practice problems, and **LeetCode solutions**, organized by topic as I progress through DSA.
 
-📂 Repository Structure
+## 🎯 Goals
+
+* Build strong DSA fundamentals
+* Improve problem-solving and logical thinking
+* Learn common algorithmic patterns
+* Write clean and efficient C++ code
+* Prepare for technical interviews and coding assessments
+
+## 📚 Topics
+
+* Arrays
+* Strings
+* Searching
+* Sorting
+* Linked Lists
+* Stacks
+* Queues
+* Recursion & Backtracking
+* Hashing
+* Trees
+* Binary Search Trees
+* Heaps & Priority Queues
+* Graphs
+* Greedy Algorithms
+* Dynamic Programming
+* C++ STL
+* Problem-Solving Patterns
+
+## 🛠️ Language
+
+**C++**
+
+## 📁 Repository Structure
+
 Each topic contains implementations, practice problems, and solutions related to that concept.
 
-DSA-CPP/
+```text
+DSA-Cpp/
+│
 ├── Arrays/
 ├── Strings/
 ├── Searching/
@@ -42,32 +51,48 @@ DSA-CPP/
 ├── Stack/
 ├── Queue/
 ├── Recursion/
+├── Hashing/
 ├── Trees/
 ├── Graphs/
 ├── Dynamic-Programming/
+├── Greedy/
+├── Heap/
 └── STL/
-📈 Progress
+```
+
+## 📈 Progress
+
 This repository will continuously evolve as I learn new concepts and solve more problems.
 
- Arrays
- Strings
- Searching & Sorting
- Linked Lists
- Stacks & Queues
- Recursion & Backtracking
- Trees
- Graphs
- Greedy Algorithms
- Dynamic Programming
-💡 Approach
+* [ ] Arrays
+* [ ] Strings
+* [ ] Searching & Sorting
+* [ ] Linked Lists
+* [ ] Stacks & Queues
+* [ ] Recursion & Backtracking
+* [ ] Hashing
+* [ ] Trees
+* [ ] Graphs
+* [ ] Greedy Algorithms
+* [ ] Dynamic Programming
+* [ ] C++ STL
+
+## 💡 Approach
+
 For each problem, I try to focus on:
 
-Understanding the problem
-Developing a brute-force approach
-Identifying a better solution
-Analyzing time and space complexity
-Implementing the solution in C++
-Learning from mistakes and edge cases
-Language: C++ Focus: Data Structures, Algorithms & Problem Solving
+1. Understanding the problem
+2. Developing a brute-force approach
+3. Finding an optimized solution
+4. Analyzing time and space complexity
+5. Implementing the solution in C++
+6. Learning from mistakes and edge cases
+
+---
+
+**Language:** C++
+**Focus:** Data Structures, Algorithms & Problem Solving
 
 # LeetCode Topics
+
+Solutions to LeetCode problems organized according to their respective topics.
