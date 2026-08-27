@@ -1,4 +1,4 @@
-#Data Structures & Algorithms in C++
+# Data Structures & Algorithms in C++
 A structured collection of my Data Structures and Algorithms learning journey using C++.
 
 This repository contains implementations of fundamental data structures, algorithms, problem-solving patterns, and solutions to coding problems from platforms such as LeetCode.
