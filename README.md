@@ -110,6 +110,7 @@ Solutions to LeetCode problems organized according to their respective topics.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0258-add-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
