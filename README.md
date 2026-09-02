@@ -121,4 +121,8 @@ Solutions to LeetCode problems organized according to their respective topics.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0258-add-digits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
