@@ -112,6 +112,7 @@ Solutions to LeetCode problems organized according to their respective topics.
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0231-power-of-two](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0258-add-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -124,5 +125,10 @@ Solutions to LeetCode problems organized according to their respective topics.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
