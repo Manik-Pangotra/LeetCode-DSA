@@ -103,6 +103,7 @@ Solutions to LeetCode problems organized according to their respective topics.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +132,12 @@ Solutions to LeetCode problems organized according to their respective topics.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0231-power-of-two/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
