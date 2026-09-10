@@ -103,6 +103,7 @@ Solutions to LeetCode problems organized according to their respective topics.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -135,9 +136,14 @@ Solutions to LeetCode problems organized according to their respective topics.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
