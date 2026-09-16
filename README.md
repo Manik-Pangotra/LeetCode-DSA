@@ -104,6 +104,7 @@ Solutions to LeetCode problems organized according to their respective topics.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@ Solutions to LeetCode problems organized according to their respective topics.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
