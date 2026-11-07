@@ -117,6 +117,7 @@ Solutions to LeetCode problems organized according to their respective topics.
 | [0009-palindrome-number](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0258-add-digits/) | Easy |
+| [0509-fibonacci-number](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +135,7 @@ Solutions to LeetCode problems organized according to their respective topics.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,4 +189,12 @@ Solutions to LeetCode problems organized according to their respective topics.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Manik-Pangotra/LeetCode-DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
